@@ -1,1 +1,2 @@
-# Data-Cleaning-Portfolio-Project-Queries
+# This project is about writing some queries on Window Functions
+
